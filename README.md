@@ -44,3 +44,4 @@
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeBernardo08&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
