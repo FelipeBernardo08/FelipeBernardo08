@@ -42,5 +42,7 @@
   "mensagem": "Seja bem vindo ao meu perfil!"
 
 ```
-
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeBernardo08&show_icons=true&theme=dracula"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&layout=compact&theme=dracula">
+</div>
