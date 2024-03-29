@@ -45,5 +45,4 @@
 <div>
   <hr>
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html&theme=dracula">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeBernardo08&repo=bernardodev.github.io&theme=dracula">
 </div>
