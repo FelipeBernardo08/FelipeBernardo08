@@ -24,6 +24,7 @@
   "tecnologias": [
     "Framework Angular",
     "Framework Laravel",
+    "Framework Ionic",
     "Controle de versionamento GIT",
     "Metodologia Ágil - Scrum"
   ],
