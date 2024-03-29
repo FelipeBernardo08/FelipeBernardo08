@@ -4,7 +4,7 @@
 
 ```json
 
-  "arquivo.json": "Apresentação",
+  "arquivo_json": "Apresentação",
   "nome": "Felipe Bernardo de Oliveira",
   "interesses": [
     "Desenvolvimento WEB",
