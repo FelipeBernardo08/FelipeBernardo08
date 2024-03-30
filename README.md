@@ -26,6 +26,7 @@
     "Framework Angular",
     "Framework Laravel",
     "Framework Ionic",
+    "POO",
     "Controle de versionamento GIT",
     "Metodologia Ágil - Scrum"
   ],
