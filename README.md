@@ -44,7 +44,7 @@
   "mensagem": "Seja bem vindo ao meu perfil!"
 
 ```
-<div>
   <hr>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html&theme=dracula">
+<div align="center" flex="row">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html&theme=dracula">
 </div>
