@@ -46,5 +46,5 @@
 ```
   <hr>
 <div align="center" flex="row">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html&theme=dracula">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html,css,c&theme=dracula">
 </div>
