@@ -12,7 +12,7 @@
     "Desenvolvimento Front-End",
     "Desenvolvimento Back-End",
     "Responsividade",
-    "API Restful",
+    "API REST",
     "Agrotecnologia"
   ],
   "linguagens": [
