@@ -4,8 +4,7 @@
 <a href="https://instagram.com/ffelipebernardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 ```json
-
-  "arquivo_json": "Apresentação",
+apresentacao = {
   "nome": "Felipe Bernardo de Oliveira",
   "interesses": [
     "Desenvolvimento WEB",
@@ -42,6 +41,7 @@
     ]
   },
   "mensagem": "Seja bem vindo ao meu perfil!"
+}
 
 ```
   <hr>
