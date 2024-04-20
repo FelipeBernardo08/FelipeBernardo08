@@ -46,4 +46,5 @@
   <hr>
 <div align="center" flex="row">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html,css,c,blade&theme=dracula">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
