@@ -26,6 +26,7 @@
     "Framework Laravel",
     "Framework Ionic",
     "POO",
+    "Testes unitários",
     "Controle de versionamento GIT",
     "Metodologia Ágil - Scrum"
   ],
