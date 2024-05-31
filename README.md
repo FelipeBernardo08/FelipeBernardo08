@@ -32,7 +32,7 @@
       ],
       "formacao": "Graduando Análise e Desenvolvimento de Sistemas - (UNIP)",
       "ocupacoes": {
-        "trabalho": "Desenvolvedor Web FullStack",
+        "profissao": "Desenvolvedor Web FullStack",
         "experiencia_profissional": [
           {
              "cargo": "Desenvolvedor Web",
