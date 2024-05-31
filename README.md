@@ -32,7 +32,7 @@
       ],
       "ocupacoes": {
         "estudante": "Graduando Análise e Desenvolvimento de Sistemas - (UNIP)",
-        "trabalho": "Desenvolvedor Web FullStack - Grupo AGTech Agrotecnologia",
+        "trabalho": "Desenvolvedor Web FullStack",
         "hobbies": [
           "Brincar com minha linda filha Alice",
           "Tocar instrumentos de corda (Violão, Guitarra, Baixo)",
