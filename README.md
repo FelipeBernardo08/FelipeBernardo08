@@ -30,23 +30,23 @@
         "Controle de versionamento GIT",
         "Metodologia Ágil - Scrum"
       ],
+      "formacao": "Graduando Análise e Desenvolvimento de Sistemas - (UNIP)",
       "ocupacoes": {
-        "estudante": "Graduando Análise e Desenvolvimento de Sistemas - (UNIP)",
         "trabalho": "Desenvolvedor Web FullStack",
         "experiencia_profissional": [
           {
              "cargo": "Desenvolvedor Web",
              "periodo": "7 meses"
-          }
+          },
         ]
-        "hobbies": [
+      },
+      "hobbies": [
           "Brincar com minha linda filha Alice",
           "Tocar instrumentos de corda (Violão, Guitarra, Baixo)",
           "Andar de Skate",
           "Pescar",
           "Ler"
-        ]
-      },
+      ],
       "mensagem": "Seja bem vindo ao meu perfil!"
   }
 ```
