@@ -53,12 +53,16 @@
   <hr>
 <div align="center" flex="row">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html,css,c,blade&theme=dracula">
-  <br>
+<br>
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-     <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="javascript logo"  />
-     <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="30" alt="laravel logo"  />
+<img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" height="30" alt="nestjs logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="color:"  />
 <!--   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FelipeBernardo08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 
 </div>
