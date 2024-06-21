@@ -56,7 +56,9 @@
   <br>
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+     <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="javascript logo"  />
+     <img width="12" />
 <!--   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=FelipeBernardo08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 
 </div>
