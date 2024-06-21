@@ -24,12 +24,11 @@
   "apresentacao": {
       "nome": "Felipe Bernardo de Oliveira",
       "interesses": [
-        "Desenvolvimento WEB",
+        "Desenvolvimento Web",
         "Desenvolvimento Front-End",
         "Desenvolvimento Back-End",
         "Responsividade",
-        "API REST",
-        "Agrotecnologia"
+        "API REST"
       ],
       "linguagens": [
         "JavaScript",
@@ -40,9 +39,11 @@
       ],
       "tecnologias": [
         "Framework Angular",
-        "Framework Laravel",
         "Framework Ionic",
-        "POO",
+        "Framework Vue",
+        "Framework NestJs",
+        "Framework Laravel",
+        "Programação Orientada a Objetos",
         "Testes unitários",
         "Controle de versionamento GIT",
         "Metodologia Ágil - Scrum"
@@ -52,7 +53,11 @@
         "profissao": "Desenvolvedor Web FullStack",
         "experiencia_profissional": [
           {
-             "cargo": "Desenvolvedor Web",
+            "cargo": "Desenvolvedor Web - Escritha",
+            "periodo": "06/2024 - Atualmente"
+          },
+          {
+             "cargo": "Desenvolvedor Web - Grupo AGTech",
              "periodo": "7 meses"
           },
         ]
