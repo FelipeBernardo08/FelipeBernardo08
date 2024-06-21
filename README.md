@@ -74,5 +74,5 @@
 <br><br>
 <div flex="row">
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html,css,c,blade&theme=dracula">
-   <img width="40%" src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="168" alt="streak graph"  />
+   <img width="40%" src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" alt="streak graph"  />
 </div>
