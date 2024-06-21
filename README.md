@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="color:"  />
 </div>
 <br>
+
 ```json
   "apresentacao": {
       "nome": "Felipe Bernardo de Oliveira",
@@ -66,6 +67,7 @@
       "mensagem": "Seja bem vindo ao meu perfil!"
   }
 ```
+
 <hr>
 <a href="https://www.linkedin.com/in/felipe-bernardo-de-oliveira-5b93a3274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/ffelipebernardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
