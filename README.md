@@ -52,7 +52,6 @@
 ```
 <hr>
 <div align="center">
-  <br>
   <h3>Linguagens</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -71,6 +70,7 @@
   <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" height="30" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="color:"  />
+ <br>
 </div>
 <div flex="row">
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html,css,c,blade&theme=dracula">
