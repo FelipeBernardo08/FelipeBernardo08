@@ -52,7 +52,7 @@
 ```
 <hr>
 <div align="center">
-  <h3>Linguagens</h3>
+  <h3>Linguagens utilizadas por mim</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -73,8 +73,11 @@
 </div>
 <br><br>
 
- <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&locale=en&hide_title=true&hide=html&layout=compact&langs_count=5&theme=dracula&hide_border=true&include_all_commits=true" height="168" />
+<div>
+  <h3>Meus status</h3>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&locale=en&hide_title=true&hide=html&layout=compact&langs_count=5&theme=dracula&hide_border=true&include_all_commits=true" height="168" />
  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=FelipeBernardo08&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="168" alt="stats graph" />
  <img width="100%" src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="168" alt="streak graph"  />
+</div>
 
 
