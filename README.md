@@ -56,6 +56,7 @@
 </div>
 <div align="center">
   <br>
+  ###<h3>Linguagens</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -73,4 +74,8 @@
   <img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" height="30" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="color:"  />
+</div>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FelipeBernardo08.FelipeBernardo08&right_color=deeppink"  />
 </div>
