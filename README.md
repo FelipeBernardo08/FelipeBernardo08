@@ -51,9 +51,6 @@
   }
 ```
 <hr>
-<div flex="row">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html,css,c,blade&theme=dracula">
-</div>
 <div align="center">
   <br>
   ###<h3>Linguagens</h3>
@@ -75,7 +72,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="color:"  />
 </div>
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FelipeBernardo08.FelipeBernardo08&right_color=deeppink"  />
+<div flex="row">
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html,css,c,blade&theme=dracula">
 </div>
