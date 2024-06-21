@@ -51,7 +51,7 @@
   }
 ```
 <hr>
-<div align="center" flex="row">
+<div flex="row">
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html,css,c,blade&theme=dracula">
 </div>
 <div align="center">
