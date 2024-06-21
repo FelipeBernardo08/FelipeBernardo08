@@ -73,9 +73,7 @@
 <a href="https://instagram.com/ffelipebernardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br>
 <div align="center">
-  <h3>Meus status</h3>
- <img width="30%" src="https://github-readme-stats.vercel.app/api?username=FelipeBernardo08&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" alt="stats graph" />
- <img width="30%" src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5"  alt="streak graph"  />
+ <img width="40%" src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5"  alt="streak graph"  />
 </div>
 
 
