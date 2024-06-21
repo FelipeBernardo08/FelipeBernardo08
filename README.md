@@ -1,4 +1,4 @@
-<h2 align="center">Hello World! <br> Meu nome é Felipe, sou um Desenvolvedor Web Full Stack 👨🏽‍💻</h2>
+<h3 align="center">Hello World! <br> Meu nome é Felipe, sou um Desenvolvedor Web Full Stack 👨🏽‍💻</h3>
 
 <a href="https://www.linkedin.com/in/felipe-bernardo-de-oliveira-5b93a3274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/ffelipebernardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
