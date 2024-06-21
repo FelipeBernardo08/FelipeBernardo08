@@ -73,7 +73,6 @@
 </div>
 <br><br>
 <div align="center" flex="row">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&locale=en&hide_title=true&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="168" />
-<!--    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBernardo08&hide=html,css,c,blade&theme=dracula" height="168"> -->
+   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&locale=en&hide_title=true&hide=html&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="168" />
    <img src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="168" alt="streak graph"  />
 </div>
