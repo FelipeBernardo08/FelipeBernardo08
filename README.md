@@ -79,7 +79,7 @@
 <br>
 <div align="left">
 <br>
-<img src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5"  alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true"  alt="streak graph"  />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&locale=en&hide_title=true&layout=compact&card_width=288&hide=html,css,c&langs_count=5&theme=dracula&hide_border=true" height="146" alt="languages graph" /> <br>
 </div>
