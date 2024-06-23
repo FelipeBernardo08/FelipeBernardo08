@@ -77,9 +77,9 @@
 <a href="https://www.linkedin.com/in/felipe-bernardo-de-oliveira-5b93a3274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/ffelipebernardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br>
-<div align="center">
- <img width="40%" src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5"  alt="streak graph"  />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&locale=en&hide_title=true&hide=html,css,c&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" alt="languages graph" /> <br>
+<div align="left">
+<img src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5"  alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&locale=en&hide_title=true&hide=html,css,c&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" alt="languages graph" /> <br>
 </div>
 
 
