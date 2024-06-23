@@ -78,7 +78,9 @@
 <a href="https://instagram.com/ffelipebernardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br>
 <div align="left">
+<br>
 <img src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5"  alt="streak graph"  />
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&locale=en&hide_title=true&hide=html,css,c&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" alt="languages graph" /> <br>
 </div>
 
