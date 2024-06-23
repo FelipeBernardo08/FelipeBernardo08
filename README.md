@@ -80,6 +80,7 @@
 <div align="left">
 <br>
 <img src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true"  alt="streak graph"  />
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&locale=en&hide_title=true&layout=donut&hide=html,css,c&langs_count=5&theme=dracula&hide_border=true"  alt="languages graph" /> <br>
 </div>
 
