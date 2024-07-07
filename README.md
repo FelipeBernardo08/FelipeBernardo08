@@ -53,7 +53,7 @@
         "profissao": "Desenvolvedor Web FullStack",
         "experiencia_profissional": [
           {
-            "cargo": "Desenvolvedor Web - Escritha",
+            "cargo": "Desenvolvedor Web - JM2 Tecnologia LTDA",
             "periodo": "06/2024 - Atualmente"
           },
           {
