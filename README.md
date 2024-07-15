@@ -84,4 +84,4 @@
 <img src="https://streak-stats.demolab.com?user=FelipeBernardo08&locale=en&mode=weekly&theme=dracula&hide_border=true"  alt="streak graph"  />
 </div>
 
-
+# ![snake gif](https://github.com/FelipeBernardo08/FelipeBernardo08/blob/output/github-contribution-grid-snake.gif)
