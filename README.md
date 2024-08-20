@@ -46,7 +46,8 @@
         "Programação Orientada a Objetos",
         "Testes unitários",
         "Controle de versionamento GIT",
-        "Metodologia Ágil - Scrum"
+        "Metodologia Ágil - Scrum",
+        "Ubuntu Server"
       ],
       "formacao": "Graduando Análise e Desenvolvimento de Sistemas - (UNIP)",
       "ocupacoes": {
