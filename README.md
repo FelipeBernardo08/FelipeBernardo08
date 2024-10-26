@@ -54,8 +54,12 @@
         "profissao": "Desenvolvedor Web FullStack",
         "experiencia_profissional": [
           {
+            "cargo": "Desenvolvedor Full Stack - Setetelecom",
+            "periodo": "10/2024 - Atualmente"
+          },
+          {
             "cargo": "Desenvolvedor Web - JM2 Tecnologia LTDA",
-            "periodo": "06/2024 - Atualmente"
+            "periodo": "4 meses"
           },
           {
              "cargo": "Desenvolvedor Web - Grupo AGTech",
