@@ -79,8 +79,7 @@
           "Brincar com minha linda filha Alice",
           "Tocar instrumentos de corda (Violão, Guitarra, Baixo)",
           "Andar de Skate",
-          "Pescar",
-          "Ler"
+          "Pescar"
       ],
       "mensagem": "Seja bem vindo ao meu perfil!"
   }
