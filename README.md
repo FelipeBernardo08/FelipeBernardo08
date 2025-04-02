@@ -21,68 +21,70 @@
 <br>
 
 ```json
-  "apresentacao": {
-      "nome": "Felipe Bernardo de Oliveira",
-      "interesses": [
-        "Desenvolvimento Web",
-        "Desenvolvimento Front-End",
-        "Desenvolvimento Back-End",
-        "Responsividade",
-        "API REST"
-      ],
-      "linguagens": [
-        "JavaScript",
-        "TypeScript",
-        "NodeJs",
-        "PHP",
-        "SQL"
-      ],
-      "tecnologias": [
-        "Framework Angular",
-        "Framework Ionic",
-        "Framework Vue",
-        "Framework NestJs",
-        "Framework Laravel",
-        "Programação Orientada a Objetos",
-        "Testes unitários",
-        "Controle de versionamento GIT",
-        "Metodologia Ágil - Scrum",
-        "Ubuntu Server"
-      ],
-      "formacao": "Graduando Análise e Desenvolvimento de Sistemas - (UNIP)",
-      "ocupacoes": {
-        "profissao": "Desenvolvedor Web FullStack",
-        "experiencia_profissional": [
-          {
-             "cargo": "Desenvolvedor Backend Júnior 3 - Irroba E-commerce",
-             "periodo": "11/2024 - Atualmente",
-             "contrato": "Integral"
-          },
-          {
-             "cargo": "Desenvolvedor Full Stack - Setetelecom",
-             "periodo": "10/2024 - Atualmente",
-             "contrato": "Meio período"
-          },
-          {
-             "cargo": "Desenvolvedor Web - JM2 Tecnologia LTDA",
-             "periodo": "4 meses",
-             "contrato": "Integral"
-          },
-          {
-             "cargo": "Desenvolvedor Web - Grupo AGTech",
-             "periodo": "7 meses",
-             "contrato": "Integral"
-          },
-        ]
-      },
-      "hobbies": [
-          "Brincar com minha linda filha Alice",
-          "Tocar instrumentos de corda (Violão, Guitarra, Baixo)",
-          "Andar de Skate",
-          "Pescar"
-      ],
-      "mensagem": "Seja bem vindo ao meu perfil!"
-  }
+{
+    "apresentacao": {
+        "nome": "Felipe Bernardo de Oliveira",
+        "interesses": [
+            "Desenvolvimento Web",
+            "Desenvolvimento Front-End",
+            "Desenvolvimento Back-End",
+            "Responsividade",
+            "API REST"
+        ],
+        "linguagens": [
+            "JavaScript",
+            "TypeScript",
+            "NodeJs",
+            "PHP",
+            "SQL"
+        ],
+        "tecnologias": [
+            "Framework Angular",
+            "Framework Ionic",
+            "Framework Vue",
+            "Framework NestJs",
+            "Framework Laravel",
+            "Programação Orientada a Objetos",
+            "Testes unitários",
+            "Controle de versionamento GIT",
+            "Metodologia Ágil - Scrum",
+            "Ubuntu Server"
+        ],
+        "formacao": "Graduando Análise e Desenvolvimento de Sistemas - (UNIP)",
+        "ocupacoes": {
+            "profissao": "Desenvolvedor Web FullStack",
+            "experiencia_profissional": [
+                {
+                    "cargo": "Desenvolvedor Backend Júnior 3 - Irroba E-commerce",
+                    "periodo": "11/2024 - Atualmente",
+                    "contrato": "Integral"
+                },
+                {
+                    "cargo": "Desenvolvedor Full Stack - Setetelecom",
+                    "periodo": "10/2024 - Atualmente",
+                    "contrato": "Meio período"
+                },
+                {
+                    "cargo": "Desenvolvedor Web - JM2 Tecnologia LTDA",
+                    "periodo": "4 meses",
+                    "contrato": "Integral"
+                },
+                {
+                    "cargo": "Desenvolvedor Web - Grupo AGTech",
+                    "periodo": "7 meses",
+                    "contrato": "Integral"
+                }
+            ]
+        },
+        "hobbies": [
+            "Brincar com minha linda filha Alice",
+            "Tocar instrumentos de corda (Violão, Guitarra, Baixo)",
+            "Andar de Skate",
+            "Pescar"
+        ],
+        "mensagem": "Seja bem vindo ao meu perfil!"
+    }
+}
 ```
 
 <hr>
