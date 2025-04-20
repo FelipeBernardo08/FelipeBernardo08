@@ -57,22 +57,22 @@
                 {
                     "cargo": "Desenvolvedor Backend Júnior 3 - Irroba E-commerce",
                     "periodo": "11/2024 - Atualmente",
-                    "contrato": "Integral"
+                    "contrato": "CLT - Integral"
                 },
                 {
                     "cargo": "Desenvolvedor Full Stack - Setetelecom",
                     "periodo": "6 Meses",
-                    "contrato": "Meio período"
+                    "contrato": "PJ - Meio período"
                 },
                 {
                     "cargo": "Desenvolvedor Web - JM2 Tecnologia LTDA",
                     "periodo": "4 meses",
-                    "contrato": "Integral"
+                    "contrato": "PJ - Integral"
                 },
                 {
                     "cargo": "Desenvolvedor Web - Grupo AGTech",
                     "periodo": "7 meses",
-                    "contrato": "Integral"
+                    "contrato": "CLT - Integral"
                 }
             ]
         },
