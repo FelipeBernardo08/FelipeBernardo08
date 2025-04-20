@@ -61,7 +61,7 @@
                 },
                 {
                     "cargo": "Desenvolvedor Full Stack - Setetelecom",
-                    "periodo": "10/2024 - Atualmente",
+                    "periodo": "6 Meses",
                     "contrato": "Meio período"
                 },
                 {
