@@ -25,29 +25,26 @@
     "apresentacao": {
         "nome": "Felipe Bernardo de Oliveira",
         "interesses": [
-            "Desenvolvimento Web",
-            "Desenvolvimento Front-End",
             "Desenvolvimento Back-End",
-            "Responsividade",
-            "API REST"
+            "Desenvolvimento Front-End",
+            "API REST",
+            "Testes Unitários",
+            "Docker"
         ],
         "linguagens": [
-            "JavaScript",
-            "TypeScript",
-            "NodeJs",
             "PHP",
+            "TypeScript",
+            "JavaScript",
             "SQL"
         ],
         "tecnologias": [
-            "Framework Angular",
-            "Framework Ionic",
-            "Framework Vue",
-            "Framework NestJs",
             "Framework Laravel",
+            "Framework NestJs",
+            "Framework Angular",
             "Programação Orientada a Objetos",
-            "Testes unitários",
             "Controle de versionamento GIT",
-            "Metodologia Ágil - Scrum",
+            "Testes unitários",
+            "Docker",
             "Ubuntu Server"
         ],
         "formacao": "Graduando Análise e Desenvolvimento de Sistemas - (UNIP)",
