@@ -43,8 +43,8 @@
             "Framework Angular",
             "Programação Orientada a Objetos",
             "Controle de versionamento GIT",
-            "Testes unitários",
             "Docker",
+            "Testes unitários",
             "Ubuntu Server"
         ],
         "formacao": "Graduando Análise e Desenvolvimento de Sistemas - (UNIP)",
