@@ -12,9 +12,6 @@
 </div>
 
 ---
-
-### 📄 Sobre Mim
-
 ```json
 {
   "nome": "Felipe Bernardo de Oliveira",
@@ -71,21 +68,13 @@
   "mensagem": "Seja bem-vindo ao meu perfil!"
 }
 ```
-
 <hr>
 <a href="https://www.linkedin.com/in/felipe-bernardo-de-oliveira-5b93a3274/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://instagram.com/ffelipebernardo" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
 <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&layout=donut&hide=html,css,c&langs_count=6&theme=dracula&hide_border=true" alt="Linguagens mais usadas" width="87%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&layout=donut&hide=html,css,c&langs_count=6&theme=dracula&hide_border=true" alt="Linguagens mais usadas" width="100%" />
 <br><br>
-<img src="https://streak-stats.demolab.com?user=FelipeBernardo08&mode=weekly&theme=dracula&hide_border=true" alt="Contrib streak" width="87%" />
-
-
+<img src="https://streak-stats.demolab.com?user=FelipeBernardo08&mode=weekly&theme=dracula&hide_border=true" alt="Contrib streak" width="100%" />
 
 # ![snake gif](https://github.com/FelipeBernardo08/FelipeBernardo08/blob/output/github-contribution-grid-snake.gif)
