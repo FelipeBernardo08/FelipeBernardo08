@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&layout=donut&hide=html,css,c&langs_count=6&theme=dracula&hide_border=true" alt="Linguagens mais usadas" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBernardo08&layout=donut&hide=html,css,c,blade&langs_count=6&theme=dracula&hide_border=true" alt="Linguagens mais usadas" width="100%" />
 <br><br>
 <img src="https://streak-stats.demolab.com?user=FelipeBernardo08&mode=weekly&theme=dracula&hide_border=true" alt="Contrib streak" width="100%" />
 
