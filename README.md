@@ -24,6 +24,7 @@
   ],
   "linguagens": ["PHP", "TypeScript", "JavaScript", "SQL"],
   "tecnologias": [
+    "NodeJs",
     "Laravel",
     "NestJS",
     "Angular",
@@ -31,7 +32,9 @@
     "GIT",
     "Docker",
     "Testes unitários",
-    "Ubuntu Server"
+    "TDD",
+    "Ubuntu Server",
+    "Mensageria SQS (AWS)"
   ],
   "formacao": "Graduando em Análise e Desenvolvimento de Sistemas - UNIP",
   "ocupacoes": {
