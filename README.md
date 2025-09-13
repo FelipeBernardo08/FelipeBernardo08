@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello World! <br> Meu nome é Felipe, sou Desenvolvedor Web Full Stack 👨🏽‍💻</h3>
+<h3 align="center">👋 Hello World! <br> Meu nome é Felipe, sou um Desenvolvedor Web Full Stack 👨🏽‍💻</h3>
 
 <div align="center">
   <!-- Tecnologias principais -->
